@@ -8,7 +8,5 @@ So, I will try to be the most methodical I can and, with this idea in my mind, I
 ## Tutorial list
 | Tutorial | Difficulty |
 |----------|------------|
-| Tutorial 1 | Easy|
-
-[Chapter 1: Visual Field](tutorials/01_visual_field.md)
-* Chapter 2: Simulating Epiretinal Implants (Coming soon)
+| [Visual field](tutorial/tutorial1/tutorial1.md) | Easy|
+| Simulating Argus II (Coming soon) | Easy |
