@@ -10,3 +10,5 @@ So, I will try to be the most methodical I can and, with this idea in my mind, I
 |----------|------------|
 | Tutorial 1 | Easy|
 
+[Chapter 1: Visual Field](tutorials/01_visual_field.md)
+* Chapter 2: Simulating Epiretinal Implants (Coming soon)
