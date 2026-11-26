@@ -8,5 +8,7 @@ So, I will try to be the most methodical I can and, with this idea in my mind, I
 ## Tutorial list
 | Tutorial | Difficulty |
 |----------|------------|
-| [Visual field](tutorial/tutorial1/tutorial1.md) | Easy|
+| [Visual field](tutorial/tutorial1/tutorial1.md) | Easy |
+| Human visual system (Coming soon) | Easy |
+| Visual prostheses (Coming soon) | Easy |
 | Simulating Argus II (Coming soon) | Easy |
